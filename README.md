@@ -2,6 +2,8 @@
 
 ## Description
 A simple to-do list application built with Laravel. It allows users to add, update, and delete tasks.
+This is made using HTML, Tailwind, JS and PHP Laravel. AJAX (Asynchronous JavaScript and XML) is used to handle 
+real-time interactions with the server without needing to refresh the page. 
 
 ## Installation
 Clone the repository and install the dependencies:
